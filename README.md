@@ -1,0 +1,2 @@
+# CrudeOperationsAsp.NetCore
+crude operations
